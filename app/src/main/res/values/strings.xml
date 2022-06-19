@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">JWLab07b</string>
+    <string name="title">Title Goes Here</string>
+    <string-array name="categories">
+        <item>What It Is</item>
+        <item>How It Is Formed</item>
+        <item>Where It Occurs</item>
+        <item>Fun Fact</item>
+    </string-array>
+    <string-array name="correct">
+        <item>aurora borealis</item>
+        <item>sun</item>
+        <item>auroral zone</item>
+        <item>green</item>
+        <item>light</item>
+        <item>ice crystals</item>
+        <item>20,000ft</item>
+        <item>sun pillar</item>
+        <item>neon blue</item>
+        <item>algae</item>
+        <item>Puerto Rico</item>
+        <item>true</item>
+    </string-array>
+    <string-array name="aurora_excerpts">
+        <item>Northern lights, or aurora borealis, are dancing streaks of light that can appear as curtains, waves, and spirals.</item>
+        <item>Northern lights are caused by activity on the surface of the Sun, which produces electrically charged particles that interact with the magnetic field of Earth.</item>
+        <item>The best place to see Northern Lights is the auroral zone, an area within a fifteen hundred mile radius of the North pole. </item>
+        <item>Green is the most common color for northern lights, and blue and red are the rarest. The different colors are due to different types of gas particles.</item>
+    </string-array>
+    <string-array name="aurora_questions">
+        <item>What is another name for northern lights?</item>
+        <item>Activity on the surface of the ___ causes northern lights.</item>
+        <item>Which is the best location for Northern Lights?</item>
+        <item>Which is the most frequent color of northern lights?</item>
+    </string-array>
+    <string-array name="aurora_opts_1">
+        <item>aurora borealis</item>
+        <item>branta canendensis</item>
+        <item>aplysia californica</item>
+    </string-array>
+    <string-array name="aurora_opts_2">
+        <item>moon</item>
+        <item>sun</item>
+        <item>galaxy</item>
+    </string-array>
+    <string-array name="aurora_opts_3">
+        <item>ring of fire</item>
+        <item>auroral zone</item>
+        <item>polar cloud</item>
+    </string-array>
+    <string-array name="aurora_opts_4">
+        <item>pink</item>
+        <item>blue</item>
+        <item>green</item>
+    </string-array>
+    <string-array name="sunhalo_excerpts">
+        <item>A sun halo is a circle of light that forms around the sun or moon.</item>
+        <item>Sun halos are caused by cirrus clouds, which contain tiny ice crystals. The reflection of light from those crystals creates the halo.</item>
+        <item>The cirrus clouds that cause sun halos occur at high altitudes of over 20,000 feet.</item>
+        <item>Different crystal shapes can make different types of sun halos. Sun pillars, for example, are caused by hexagonal ice crystals. </item>
+    </string-array>
+    <string-array name="sunhalo_questions">
+        <item>What is a sun halo a circle of?</item>
+        <item>What causes the reflection of light?</item>
+        <item>How high are cirrus clouds?</item>
+        <item>Which of the below is a type of sun halo?</item>
+    </string-array>
+    <string-array name="sunhalo_opts_1">
+        <item>light</item>
+        <item>dust</item>
+        <item>water</item>
+    </string-array>
+    <string-array name="sunhalo_opts_2">
+        <item>the Sun</item>
+        <item>ice crystals</item>
+        <item>dust particles</item>
+    </string-array>
+    <string-array name="sunhalo_opts_3">
+        <item>20,000ft</item>
+        <item>50,000ft</item>
+        <item>100,000ft</item>
+    </string-array>
+    <string-array name="sunhalo_opts_4">
+        <item>sun ellipse</item>
+        <item>sun arc</item>
+        <item>sun pillar</item>
+    </string-array>
+    <string-array name="biobay_excerpts">
+        <item>The wonder of "bioluminescent shores" occurs when the sea sparkles a neon blue or green, or even red.</item>
+        <item>Bioluminescence is light emitted by living organisms, such as algae; in the ocean, this produces a stunning effect.</item>
+        <item>The most famous bioluminescent shore is the Mosquito Bay in Puerto Rico. However, this phenomenon occurs at many other locations. </item>
+        <item>While bioluminescence can be beautiful, it could also signify danger. For example, many bioluminescent dinoflagellates are considered toxic.</item>
+    </string-array>
+    <string-array name="biobay_questions">
+        <item>What color do bioluminescent waters tend to be?</item>
+        <item>Which of the organisms below is bioluminescent?</item>
+        <item>Where is the most famous bioluminescent bay located?</item>
+        <item>Some bioluminescent organisms can produce toxins: true or false?</item>
+    </string-array>
+    <string-array name="biobay_opts_1">
+        <item>murky brown</item>
+        <item>neon blue</item>
+        <item>bright yellow</item>
+    </string-array>
+    <string-array name="biobay_opts_2">
+        <item>clownfish</item>
+        <item>seagulls</item>
+        <item>algae</item>
+    </string-array>
+    <string-array name="biobay_opts_3">
+        <item>Puerto Rico</item>
+        <item>Gobi Desert</item>
+        <item>Arkansas</item>
+    </string-array>
+    <string-array name="biobay_opts_4">
+        <item>true</item>
+        <item>false</item>
+        <item>uncertain</item>
+    </string-array>
+</resources>
